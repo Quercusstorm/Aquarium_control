@@ -10,6 +10,7 @@
 
 int main(void)
 {
+	int a;
     /* Replace with your application code */
     while (1) 
     {
