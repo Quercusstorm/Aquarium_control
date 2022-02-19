@@ -1,2 +1,15 @@
 
 .vs/Aquarium_control/v14/.atsuo
+*.cproj
+Aquarium_control/Debug/Aquarium_control.hex
+Aquarium_control/Debug/main.d
+Aquarium_control/Debug/Makefile
+Aquarium_control/Debug/makedep.mk
+Aquarium_control/Debug/main.o
+Aquarium_control/Debug/Aquarium_control.srec
+Aquarium_control/Debug/Aquarium_control.map
+Aquarium_control/Debug/Aquarium_control.lss
+Aquarium_control/Debug/Aquarium_control.elf
+Aquarium_control/Debug/Aquarium_control.eep
+Aquarium_control/Aquarium_control.cproj
+Aquarium_control/Aquarium_control.cproj
